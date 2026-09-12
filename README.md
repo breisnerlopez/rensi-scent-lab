@@ -4,8 +4,33 @@ Recetario personal de mezclas de aceites esenciales.
 
 **Aceites en inventario:** bergamota, jazmín, cedro, vetiver, romero
 **Portador:** jojoba
-**Formato:** roll-on de 15 mL
+**Formato:** roll-on de 10 mL
+**Concentración:** 7% — 14 gotas de esencia, completar con jojoba
 **Medida de trabajo:** gotas (1 gota ≈ 0.05 mL, unas 20 gotas por mL)
+
+---
+
+## Las cuatro mezclas
+
+| Aceite | Alba | Nocturno | Raíz | Sierra |
+|---|---|---|---|---|
+| Bergamota | 4 | — | — | 4 |
+| Jazmín | 4 | 6 | 3 | 1 |
+| Cedro | 3 | 3 | 3 | 3 |
+| Vetiver | 2 | 3 | 6 | 2 |
+| Romero | 1 | 2 | 2 | 4 |
+| **Total** | **14** | **14** | **14** | **14** |
+
+Cada mezcla tiene un protagonista distinto: bergamota en Alba, jazmín en Nocturno, vetiver en Raíz, romero en Sierra. El cedro no lidera ninguna a propósito — funciona mejor como madera conectora que como protagonista.
+
+### Identificación de frascos
+
+| Frasco | Mezcla |
+|---|---|
+| Sin etiqueta | Alba |
+| Etiqueta verde completa | Nocturno |
+| Media etiqueta vertical | Raíz |
+| Etiqueta blanca | Sierra |
 
 ---
 
@@ -15,90 +40,100 @@ Recetario personal de mezclas de aceites esenciales.
 
 | Gotas | Aceite | Rol |
 |---|---|---|
-| 6 | Bergamota | Salida |
-| 5 | Jazmín | Corazón |
-| 4 | Cedro | Base |
+| 4 | Bergamota | Salida |
+| 4 | Jazmín | Corazón |
+| 3 | Cedro | Base |
+| 2 | Vetiver | Base |
+| 1 | Romero | Corazón |
+
+**Carácter:** abre brillante y verde, se abre al floral a los 20 minutos, cierra en madera seca.
+**Duración estimada:** 4–6 horas en piel.
+**Notas:** la más equilibrada. El romero le da un filo herbal que evita que el jazmín se vuelva dulzón. Esta receta queda intacta; no tocar.
+
+## Nocturno
+
+*Floral oscuro sobre madera. Sin apertura cítrica.*
+
+| Gotas | Aceite | Rol |
+|---|---|---|
+| 6 | Jazmín | Corazón |
+| 3 | Cedro | Base |
 | 3 | Vetiver | Base |
 | 2 | Romero | Corazón |
 
-**Estructura:** 30% salida · 35% corazón · 35% base
-**Carácter:** abre brillante y verde, se abre al floral a los 20 minutos, cierra en madera seca.
-**Duración estimada:** 4–6 horas en piel.
-**Notas:** es la más equilibrada de las tres. El romero le da un filo herbal que evita que el jazmín se vuelva dulzón.
-
----
+**Carácter:** entra directo en el corazón floral, sin preámbulo. El jazmín al mando por primera vez.
+**Notas:** es la que más va a cambiar cuando llegue un absoluto de jazmín genuino.
 
 ## Raíz
 
-*La amaderada. Grave, terrosa, de poca proyección y mucha permanencia.*
+*Tierra y raíz. Poca proyección, mucha permanencia.*
 
 | Gotas | Aceite | Rol |
 |---|---|---|
-| 7 | Cedro | Base |
 | 6 | Vetiver | Base |
+| 3 | Cedro | Base |
 | 3 | Jazmín | Corazón |
-| 2 | Bergamota | Salida |
 | 2 | Romero | Corazón |
 
-**Estructura:** 10% salida · 25% corazón · 65% base
-**Carácter:** casi no tiene apertura; entra directo en tierra húmeda y madera. El jazmín aparece como un fondo lejano.
-**Duración estimada:** 8+ horas. Es la que más aguanta.
-**Notas:** proyecta poco, se queda pegada a la piel. Buena para clima frío o para días en que no quieres que el aroma te preceda.
+**Carácter:** tierra húmeda y raíz, con el jazmín asomando de fondo.
+**Duración estimada:** la más larga de las cuatro — 65% de base.
+**Notas:** proyecta poco, se queda pegada a la piel. Buena para clima frío. El vetiver es viscoso: agitar un poco más este frasco.
 
----
+## Sierra
 
-## Destello
-
-*La efímera. Arranca fuerte y se cae rápido.*
+*Herbal verde sobre cítrico.*
 
 | Gotas | Aceite | Rol |
 |---|---|---|
-| 8 | Bergamota | Salida |
-| 5 | Jazmín | Corazón |
+| 4 | Romero | Corazón |
+| 4 | Bergamota | Salida |
 | 3 | Cedro | Base |
 | 2 | Vetiver | Base |
-| 2 | Romero | Corazón |
+| 1 | Jazmín | Corazón |
 
-**Estructura:** 40% salida · 35% corazón · 25% base
-**Carácter:** la apertura más brillante de las tres, pero sin anclaje suficiente.
-**Duración estimada:** 1.5–3 horas.
-**Notas:** la sensación de "poca intensidad" no viene del olor sino de la duración: la bergamota se evapora en 30–60 minutos y no hay base que la sostenga. Si se quiere conservar el carácter cítrico, subir vetiver a 4 y bajar bergamota a 6.
+**Carácter:** la estructura del fougère clásico — herbal y verde sobre cítrico. La más fresca y la más distinta de Alba.
+**Notas:** el romero al mando, la dirección que faltaba explorar.
 
 ---
 
-## Alba Fija
+## Descartada
 
-*Variante de Alba con base reforzada, a concentración normal. Sin probar.*
+**Destello** (8 bergamota, 5 jazmín, 3 cedro, 2 vetiver, 2 romero) era Alba con el cursor corrido hacia el cítrico: mismo jazmín, mismo romero, solo más bergamota a costa de las maderas. Se sentía "floja" porque el 40% de salida se evapora en 30–60 minutos sin base que lo sostenga. No era una mezcla propia.
 
-| Gotas | Aceite |
-|---|---|
-| 4 | Bergamota |
-| 5 | Jazmín |
-| 5 | Cedro |
-| 4 | Vetiver |
-| 2 | Romero |
+---
 
-**Estructura:** 20% salida · 35% corazón · 45% base
-**Objetivo:** misma firma de Alba, con más permanencia y menos bergamota. 20 gotas en 15 mL de jojoba ≈ 6.5%.
+## Preparación
+
+1. Las gotas de esencia primero, en el frasco vacío. Si se echa la jojoba antes, las últimas gotas se quedan flotando sin integrarse.
+2. Completar con jojoba hasta 10 mL.
+3. Agitar 10–15 segundos. Los aceites esenciales y la jojoba son totalmente miscibles: se disuelven de verdad y no vuelven a separarse. No hace falta más.
+
+**Sobre el reposo:** no hay que esperar. La maceración tiene base sólida en perfume **alcohólico**, donde el etanol permite que las moléculas se integren. En base oleosa no hay ese solvente y el efecto es modesto. Se pueden usar el mismo día.
+
+**Precisión:** a 14 gotas totales, una gota de más o de menos mueve la proporción un 7%. Para más exactitud, preparar el concentrado completo de 20 gotas en un frasquito aparte, agitar, y tomar de ahí 14 gotas al roll-on.
 
 ---
 
 ## Referencia de concentraciones
 
-| Gotas en 15 mL | Concentración | Uso |
-|---|---|---|
-| 10 | ~3% | Suave, diario |
-| 20 | ~6.5% | Perfume personal, roll-on |
-| 40 | ~12% | Muy alta — desperdicio y riesgo |
+| Gotas en 10 mL | Concentración |
+|---|---|
+| 10 | ~5% — mínimo para que no se lea delgado |
+| 14 | ~7% — concentrado sin desperdicio |
+| 20 | ~10% — el olfato empieza a saturar |
+| 28 | ~14% — desperdicio y riesgo |
 
-La percepción olfativa es logarítmica: duplicar la dosis da alrededor de 30–40% más de intensidad percibida, no el doble. Lo que prolonga el aroma es subir la proporción de base (vetiver, cedro), no aumentar todo.
+Subir la dosis no sube el aroma en proporción: la percepción olfativa sigue una ley de potencia (Stevens), así que duplicar la concentración da alrededor de 30–40% más de intensidad percibida, no el doble. Lo que prolonga el aroma es subir la proporción de base (vetiver, cedro), no aumentar todo.
 
 ---
 
 ## Precauciones
 
-- **Bergamota prensada en frío es fototóxica.** El límite seguro en piel es ~0.4%. En Alba doblada (40 gotas en 15 mL) la bergamota queda cerca de 4.8%, unas doce veces por encima. Alternativa: bergamota FCF (sin bergapteno), que no tiene ese problema.
-- Aplicar en zonas cubiertas y evitar sol directo sobre la zona por 12 horas después.
-- **Romero:** se recomienda evitarlo en embarazo y en personas con epilepsia.
-- **Jojoba:** técnicamente es una cera líquida, no un aceite. No se enrancia, así que las mezclas aguantan bien; la vida útil la marca la bergamota, que se oxida en 1–2 años. Guardar en vidrio oscuro, lejos del calor.
+- **Bergamota prensada en frío es fototóxica.** El límite IFRA en piel es 0.4%. En Alba y Sierra al 7%, la bergamota queda en ~2%: cinco veces por encima. Aplicar solo en zonas cubiertas y evitar sol directo sobre la zona por 12 horas. La alternativa sería bergamota FCF (sin bergapteno), que ningún proveedor peruano confirmado vende.
+- **Romero:** evitar en epilepsia y con precaución en embarazo.
+- **Jojoba:** es una cera líquida, no un aceite. No se enrancia, así que las mezclas aguantan bien; la vida útil la marca la bergamota, que se oxida en 9–12 meses. Guardar en vidrio oscuro, lejos del calor.
 - Prueba de parche en el antebrazo antes de estrenar una mezcla nueva.
+
+---
+
+Ver [PROVEEDORES.md](PROVEEDORES.md) para el análisis de proveedores, autenticidad de materiales y plan de compra.
