@@ -102,6 +102,32 @@ Cada mezcla tiene un protagonista distinto: bergamota en Alba, jazmín en Noctur
 
 ---
 
+## Cuidado del cabello
+
+### Champú de mi hija — brillo y salud general
+
+*Para el champú Johnson's Baby cabello claro, frasco de 700 mL. Floral suave, sin notas medicinales.*
+
+| Gotas | Aceite | Para qué |
+|---|---|---|
+| 18 | Cedro | Fortalece, suave con el cuero cabelludo |
+| 14 | Romero | Salud del folículo y crecimiento |
+| 12 | Lavanda | Calma el cuero cabelludo, une el romero con lo floral |
+| 8 | Rosas | Aroma y suavidad |
+| 4 | Jazmín | Completa el aroma que a ella le gusta |
+| **56** | | **~0.4%** |
+
+**Preparación:** echar las gotas directo al frasco, cerrar y agitar bien. Agitar también antes de cada lavado, porque en champú los aceites tienden a separarse.
+
+**Notas:**
+- Si es para una niña pequeña (menos de ~10 años), usar la mitad de cada cantidad: 28 gotas en total.
+- El champú es "sin lágrimas", pero los esenciales sí pueden picar en los ojos: cuidado al enjuagar.
+- Cabello claro: hay quien dice que el romero oscurece un poco el tono con el tiempo. La evidencia es débil, pero si preocupa, pasar las 14 gotas de romero al cedro.
+- El brillo viene más del portador que del esencial: 1–2 gotas de argán o camelia en las puntas con el pelo húmedo.
+- Fuera de esta receta: bergamota (fototóxica), orégano, clavo, menta y melisa (irritan), árbol de té (choca con la rosa y no hace falta).
+
+---
+
 ## Preparación
 
 1. Las gotas de esencia primero, en el frasco vacío. Si se echa la jojoba antes, las últimas gotas se quedan flotando sin integrarse.
